@@ -40,8 +40,7 @@
   <img align="center" alt="windowns" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leonardo5525&bg_color=0d11178&color=1E90FF&line=1E90FF&point=1E90FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leonardo5525&bg_color=0d11178&color=1E90FF&line=1E90FF&point=1E90FF&area=true&hide_border=true)]
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leonardo5525&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
